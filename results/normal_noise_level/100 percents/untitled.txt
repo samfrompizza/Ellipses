@@ -1,0 +1,15 @@
+Conditions:
+  generator_noise_ratio     = 0.7
+  generator_num_blobs       = 3
+  median_filter_kernel_size = 5
+  grayscale_threshold       = 127
+  morphology_kernel_width   = 5
+  erosion_iterations        = 2
+  contour_length_threshold  = 5
+
+Results:
+  pixels_in =  {0: 407}
+  pixels_out = {0: 0}
+  percents =   {0: 100.0}
+  distance =   {0: [4.628060549905183, 1.0469201374246775, 8.0101332324187]}
+  area = {0: 230.03662941784486}
